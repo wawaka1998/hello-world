@@ -1,2 +1,4 @@
 # hello-world
-for the start
+Hi!
+This is wawaka,Chinese,who is very willing to study for worldwide software developer.
+
